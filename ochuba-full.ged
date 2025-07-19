@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.3
 2 NAME Gramps
-1 DATE 17 JUL 2025
-2 TIME 11:29:33
+1 DATE 19 JUL 2025
+2 TIME 13:06:24
 1 SUBM @SUBM@
 1 FILE /Users/uochuba/Desktop/ochuba-full.ged
 1 COPR Copyright (c) 2025 .
@@ -639,9 +639,10 @@
 1 FAMC @F0051@
 2 PEDI birth
 1 FAMS @F0052@
+1 FAMS @F0023@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 00:41:51
+2 DATE 18 JUL 2025
+3 TIME 12:01:06
 0 @I0057@ INDI
 1 NAME Jason /Ochuba/
 2 TYPE birth
@@ -664,64 +665,64 @@
 2 DATE 12 JUL 2025
 3 TIME 21:20:37
 0 @I0059@ INDI
-1 NAME Nnamdi /Ochuba/
+1 NAME Nnamdi C. /Ochuba/
 2 TYPE birth
-2 GIVN Nnamdi
+2 GIVN Nnamdi C.
 2 SURN Ochuba
 1 SEX M
 1 FAMC @F0019@
 2 PEDI birth
 1 FAMS @F0061@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:53:56
+2 DATE 18 JUL 2025
+3 TIME 12:10:22
 0 @I0060@ INDI
-1 NAME Nneka /Chinwike/
+1 NAME Nneka T. /Chinwike (nee Ochuba)/
 2 TYPE birth
-2 GIVN Nneka
-2 SURN Chinwike
+2 GIVN Nneka T.
+2 SURN Chinwike (nee Ochuba)
 1 SEX F
 1 FAMC @F0019@
 2 PEDI birth
 1 FAMS @F0062@
 1 CHAN
-2 DATE 15 JUL 2025
-3 TIME 19:39:25
+2 DATE 18 JUL 2025
+3 TIME 12:11:33
 0 @I0061@ INDI
-1 NAME Onyinye /Ifebi/
+1 NAME Onyinye B. /Ifebi (nee Ochuba)/
 2 TYPE birth
-2 GIVN Onyinye
-2 SURN Ifebi
+2 GIVN Onyinye B.
+2 SURN Ifebi (nee Ochuba)
 1 SEX F
 1 FAMC @F0019@
 2 PEDI birth
 1 FAMS @F0063@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:57:48
+2 DATE 18 JUL 2025
+3 TIME 12:13:03
 0 @I0062@ INDI
-1 NAME Chiamaka /Ochuba/
+1 NAME Chiamaka A. /Igbokwe (nee Ochuba)/
 2 TYPE birth
-2 GIVN Chiamaka
-2 SURN Ochuba
+2 GIVN Chiamaka A.
+2 SURN Igbokwe (nee Ochuba)
 1 SEX F
 1 FAMC @F0019@
 2 PEDI birth
 1 FAMS @F0030@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:58:12
+2 DATE 18 JUL 2025
+3 TIME 12:14:40
 0 @I0063@ INDI
-1 NAME Obianuju /Ochuba/
+1 NAME Obianuju B. /Ochuba/
 2 TYPE birth
-2 GIVN Obianuju
+2 GIVN Obianuju B.
 2 SURN Ochuba
 1 SEX F
 1 FAMC @F0019@
 2 PEDI birth
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:58:01
+2 DATE 18 JUL 2025
+3 TIME 12:14:09
 0 @I0064@ INDI
 1 NAME Chukwudi (Chuchu) /Ochuba/
 2 TYPE birth
@@ -782,15 +783,15 @@
 2 DATE 12 JUL 2025
 3 TIME 21:39:24
 0 @I0069@ INDI
-1 NAME Echezona /Igbokwe/
+1 NAME Echezona A. /Igbokwe/
 2 TYPE birth
-2 GIVN Echezona
+2 GIVN Echezona A.
 2 SURN Igbokwe
 1 SEX M
 1 FAMS @F0030@
 1 CHAN
-2 DATE 13 JUL 2025
-3 TIME 21:19:15
+2 DATE 18 JUL 2025
+3 TIME 12:14:48
 0 @I0070@ INDI
 1 NAME Evans /Okonkwo/
 2 TYPE birth
@@ -868,15 +869,15 @@
 2 DATE 12 JUL 2025
 3 TIME 21:43:28
 0 @I0077@ INDI
-1 NAME Sussanna /Ejikeme/
+1 NAME Susanna /Bigotti/
 2 TYPE birth
-2 GIVN Sussanna
-2 SURN Ejikeme
+2 GIVN Susanna
+2 SURN Bigotti
 1 SEX F
 1 FAMS @F0029@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 18:20:42
+2 DATE 18 JUL 2025
+3 TIME 12:22:03
 0 @I0078@ INDI
 1 NAME Adaeze /Ejikeme/
 2 TYPE birth
@@ -1933,96 +1934,96 @@
 2 DATE 14 JUL 2025
 3 TIME 19:48:25
 0 @I0180@ INDI
-1 NAME Chinyere /Ochuba/
+1 NAME Chinyere C. /Ochuba (nee Chukwuocha)/
 2 TYPE birth
-2 GIVN Chinyere
-2 SURN Ochuba
+2 GIVN Chinyere C.
+2 SURN Ochuba (nee Chukwuocha)
 1 SEX F
 1 FAMS @F0061@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:53:56
+2 DATE 18 JUL 2025
+3 TIME 12:10:51
 0 @I0181@ INDI
-1 NAME Chimamanda /Ochuba/
+1 NAME Chimamanda B. /Ochuba/
 2 TYPE birth
-2 GIVN Chimamanda
+2 GIVN Chimamanda B.
 2 SURN Ochuba
 1 FAMC @F0061@
 2 PEDI birth
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:54:43
+2 DATE 18 JUL 2025
+3 TIME 12:10:59
 0 @I0182@ INDI
-1 NAME Chikaimara /Ochuba/
+1 NAME Chikaimara J. /Ochuba/
 2 TYPE birth
-2 GIVN Chikaimara
+2 GIVN Chikaimara J.
 2 SURN Ochuba
 1 FAMC @F0061@
 2 PEDI birth
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:55:01
+2 DATE 18 JUL 2025
+3 TIME 12:11:08
 0 @I0183@ INDI
-1 NAME Chike /Chinwike/
+1 NAME Chike C. /Chinwike/
 2 TYPE birth
-2 GIVN Chike
+2 GIVN Chike C.
 2 SURN Chinwike
 1 SEX M
 1 FAMS @F0062@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:56:27
+2 DATE 18 JUL 2025
+3 TIME 12:11:47
 0 @I0184@ INDI
-1 NAME Chinedu /Chinwike/
+1 NAME Chinedu A. /Chinwike/
 2 TYPE birth
-2 GIVN Chinedu
+2 GIVN Chinedu A.
 2 SURN Chinwike
 1 SEX M
 1 FAMC @F0062@
 2 PEDI birth
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:56:27
+2 DATE 18 JUL 2025
+3 TIME 12:11:59
 0 @I0185@ INDI
-1 NAME Chibuzo /Chinwike/
+1 NAME Chibuzo B. /Chinwike/
 2 TYPE birth
-2 GIVN Chibuzo
+2 GIVN Chibuzo B.
 2 SURN Chinwike
 1 FAMC @F0062@
 2 PEDI birth
 1 CHAN
-2 DATE 15 JUL 2025
-3 TIME 19:38:44
+2 DATE 18 JUL 2025
+3 TIME 12:12:10
 0 @I0186@ INDI
-1 NAME Emeka /Ifebi/
+1 NAME Emeka I. /Ifebi/
 2 TYPE birth
-2 GIVN Emeka
+2 GIVN Emeka I.
 2 SURN Ifebi
 1 SEX M
 1 FAMS @F0063@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:57:48
+2 DATE 18 JUL 2025
+3 TIME 12:12:49
 0 @I0187@ INDI
-1 NAME Somtochukwu /Ifebi/
+1 NAME Somtochukwu O. /Ifebi/
 2 TYPE birth
-2 GIVN Somtochukwu
+2 GIVN Somtochukwu O.
 2 SURN Ifebi
 1 FAMC @F0063@
 2 PEDI birth
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:57:48
+2 DATE 18 JUL 2025
+3 TIME 12:13:28
 0 @I0188@ INDI
-1 NAME Naetochukwu /Ifebi/
+1 NAME Naetochukwu N. /Ifebi/
 2 TYPE birth
-2 GIVN Naetochukwu
+2 GIVN Naetochukwu N.
 2 SURN Ifebi
 1 FAMC @F0063@
 2 PEDI birth
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 19:57:48
+2 DATE 18 JUL 2025
+3 TIME 12:13:40
 0 @I0189@ INDI
 1 NAME Joe /Lorkowski/
 2 TYPE birth
